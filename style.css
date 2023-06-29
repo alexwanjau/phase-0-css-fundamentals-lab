@@ -30,19 +30,16 @@ figcaption {
   text-align: center;
 }
 
-#details {
+section#details div{
   background-color: aqua;
   text-align: center;
   width: 25%;
+  float: left;
 }
 
-p#featured-property {
+section#featured-property p{
+  margin: auto;
+  width: 50%;
+  padding: 10px;
   width: 800px;
-  text-align: center;
 }
-
-#details {
-    float: left;
-  }
-
-
